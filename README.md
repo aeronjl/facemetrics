@@ -1,7 +1,7 @@
 # Facemetrics
 🐭 Super simple eye and lick tracking for head-fixed neuroscience experiments
 
-<img src="facemetrics/example.jpg">
+<img src="example.jpg">
 
 ## Installation
 
